@@ -1,0 +1,6 @@
+python
+PyQt5
+sqlite3
+hashlib
+hmac
+QtQuick
