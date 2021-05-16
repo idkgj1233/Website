@@ -12,7 +12,7 @@ Component {
                 sourceSize: Qt.size(parent.width, parent.height)
                 fillMode: Image.PreserveAspectCrop
                 anchors.centerIn: parent
-                source: "./images/train.jpg"
+                source: "/UI/images/train.jpg"
             }
 
         }
